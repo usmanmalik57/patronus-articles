@@ -1,0 +1,6 @@
+project_name: "a-nice-project-name"
+app: "a-nice-app-name"
+api_key: "[Your key here]"
+api_url: "https://api.patronus.ai"
+otel_endpoint: "https://otel.patronus.ai:4317"
+ui_url: "https://app.patronus.ai"
